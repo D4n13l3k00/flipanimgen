@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # FlipAnimGen 📽️
 
@@ -10,7 +10,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/D4n13l3k00/flipanimgen)
 ![GitHub License](https://img.shields.io/github/license/D4n13l3k00/flipanimgen)
 
-</center>
+</div>
 
 ### Tested on 🧪
 
@@ -49,3 +49,7 @@ animation to Flipper Zero
 ### License 📜
 
 This project is licensed under the GNU AGPLv3 License - see the [LICENSE](LICENSE) file for details.
+
+### Acknowledgments 🙏
+
+- Thanks [@eblet](https://github.com/eblet) for Flipper Zero
